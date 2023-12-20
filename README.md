@@ -30,7 +30,7 @@ Scripts (folders)
 
 	Multivelo:
 
-		
+		Script to run velocity analysis using multi-omic data. Uses the package multivelo (https://github.com/welch-lab/MultiVelo)
 
 
 Queries
